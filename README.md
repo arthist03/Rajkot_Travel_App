@@ -29,7 +29,7 @@ I used this [video tutorial](https://youtu.be/WPO7aDJ4DF0?si=oSQNjyT8zRpOxmsf) t
 ## 🚀 Installation
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/Rajkot_Travel_App.git
+   https://github.com/arthist03/Rajkot_Travel_App.git
 
 2. Open the project in Android Studio.  
 3. Build and run the app on an emulator or physical device.
@@ -49,7 +49,7 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request.
 
 
-Project Link: [https://github.com/yourusername/Rajkot_Travel_App](https://github.com/yourusername/Rajkot_Travel_App)
+Project Link: [https://github.com/arthist03/Rajkot_Travel_App.git](https://github.com/arthist03/Rajkot_Travel_App.git)
 
 ---
 
