@@ -24,7 +24,7 @@ I used this [video tutorial](https://youtu.be/WPO7aDJ4DF0?si=oSQNjyT8zRpOxmsf) t
 - **Details on Places**: Get brief information about each place.
 
 ## 📸 Screenshots
-![App Screenshot](path_to_your_screenshot)
+![App Screenshot](image.png)
 
 ## 🚀 Installation
 1. Clone the repo:
